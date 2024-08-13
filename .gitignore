@@ -1,0 +1,5 @@
+.idea
+benchmark_uniref*
+humann_temp_output*
+databases
+input_data
